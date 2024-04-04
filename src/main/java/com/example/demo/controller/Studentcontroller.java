@@ -15,6 +15,9 @@ public class Studentcontroller {
     public String Cat() {
         return "Welcome";
     }
+    public String Dog(){
+        return "Dog";               
+    }
     }
 
 
